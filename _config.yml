@@ -1,1 +1,63 @@
-theme: jekyll-theme-cayman
+title: Vivek Singh – Software Developer
+logo:  # you can add own logo.
+description: Passionate Open source Developer, Egar to learn new technologies.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://viveksingh.work" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Author Settings
+author:
+  name: Vivek Singh
+  image: '/assets/img/02.jpg'
+  job: Software Developer
+  bio: Passionate Open source Developer, Egar to learn new technologies.
+  email: kvivek1115@gmail.com
+
+
+# Contact links
+contact:
+  - name: Twitter
+    link: https://twitter.com/kvivek1115
+  - name: Facebook
+    link: https://facebook.com/kvivek1115
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/kvivek1115/
+  - name: Github
+    link: https://github.com/vsingh-msys
+
+
+# Comment Section (Disqus)
+disqus-identifier: vsingh-msys # add your shortname for Disqus Comment. For example mr-brown
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll/tagging
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag-page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
