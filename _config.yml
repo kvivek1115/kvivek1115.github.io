@@ -1,16 +1,15 @@
 title: Vivek Singh – Software Developer
 logo:  # you can add own logo.
-description: Passionate Open source Developer, Egar to learn new technologies.
+description: Software Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://viveksingh.work" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Vivek Singh
+  name: Vivek Kumar Singh
   image: '/assets/img/02.jpg'
   job: Software Developer
-  bio: Passionate Open source Developer, Egar to learn new technologies.
+  bio: A passionate Open source Developer
   email: kvivek1115@gmail.com
 
 
