@@ -1,6 +1,6 @@
 ## Welcome to My profile
 
-Visit http://vsingh-msys.github.io
+Visit http://kvivek1115.github.io
 
-[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vsingh-msys)](https://github.com/anuraghazra/github-readme-stats)
+[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=kvivek1115)](https://github.com/anuraghazra/github-readme-stats)
 
