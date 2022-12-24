@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-A passionate ruby developer with 8+ years of experince have worked on solving performence issues, microservices also was open-source contributor at [@chef](https://github.com/chef). 
+A passionate ruby & golang developer with 8+ years of experinced have worked on solving performence issues, prod stability, new feature development. Working at MSCI Inc. as Associate Pune India.
 
-Working at MSCI Inc. as Associate Pune India.
+As a Software Developer, I am not very big on the language and framework. I believe efficiency, productivity and code maintainability relies mostly on how simple you can architect your solution.
 
-Have worked on microservices-based architecture Chef Automate(automate.chef.io).
+Worked as open-source contributor at [@chef](https://github.com/chef) mostly on microservices-based architecture Chef Automate(automate.chef.io).
 
-Optimize various ruby on rails web-based applications, extensive knowledge on Postgresql & Msql, like writing PLSQL functions, procedures, trigger. Also worked on materialized views, clustering, and table partitions.
+Optimize various ruby on rails web-based applications, extensive knowledge on Oracle, Postgresql & Msql, writing PLSQL functions, procedures, trigger. Also worked on materialized views, clustering, and table partitions.
 
-
-[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vsingh-msys)](https://github.com/anuraghazra/github-readme-stats)
+[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=kvivek1115)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
