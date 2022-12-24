@@ -30,12 +30,10 @@ disqus-identifier: vsingh-msys # add your shortname for Disqus Comment. For exam
 
 # Build settings
 markdown: kramdown
-theme: pages-themes/dinky@v0.2.0
 permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll/tagging
-  - jekyll-remote-theme
 
 # Pages Path
 defaults:
