@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Author Settings
 author:
-  name: Vivek Kumar Singh
+  name: Vivek Singh
   image: '/assets/img/02.jpg'
   job: Software Developer
   bio: A passionate Open source Developer
@@ -22,11 +22,11 @@ contact:
   - name: LinkedIn
     link: https://www.linkedin.com/in/kvivek1115/
   - name: Github
-    link: https://github.com/vsingh-msys
+    link: https://github.com/kvivek1115
 
 
 # Comment Section (Disqus)
-disqus-identifier: vsingh-msys # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: kvivek1115 # add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
@@ -34,6 +34,11 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-gist
+  - jekyll-default-layout
+  - jekyll-github-metadata
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
 
 # Pages Path
 defaults:
