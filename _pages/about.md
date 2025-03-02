@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-A passionate ruby & golang developer with 8+ years of experinced have worked on solving performence issues, prod stability, new feature development. Working at MSCI Inc. as Associate Pune India.
+A passionate Ruby & Golang developer with 10+ years of experience, currently working at MSCI Inc. as an Associate in Pune, India. I have been with MSCI for over 4 years, focusing on JRuby, Python, event-based architecture, and Azure AKS. My work includes designing report generation systems using KEDA and developing workers to handle load efficiently.
 
-As a Software Developer, I am not very big on the language and framework. I believe efficiency, productivity and code maintainability relies mostly on how simple you can architect your solution.
+As a Software Developer, I am not very big on the language and framework. I believe efficiency, productivity, and code maintainability rely mostly on how simple you can architect your solution.
 
-Worked as open-source contributor at [@chef](https://github.com/chef) mostly on microservices-based architecture Chef Automate(automate.chef.io).
+I have also contributed to open-source projects at [@chef](https://github.com/chef), primarily working on microservices-based architecture for Chef Automate (automate.chef.io).
 
-Optimize various ruby on rails web-based applications, extensive knowledge on Oracle, Postgresql & Msql, writing PLSQL functions, procedures, trigger. Also worked on materialized views, clustering, and table partitions.
+My expertise includes optimizing various Ruby on Rails web-based applications and extensive knowledge of Oracle, PostgreSQL, and MySQL. I have experience writing PL/SQL functions, procedures, and triggers, as well as working with materialized views, clustering, and table partitions.
 
 [![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=kvivek1115)](https://github.com/anuraghazra/github-readme-stats)
 
